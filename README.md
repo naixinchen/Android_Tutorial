@@ -13,7 +13,31 @@
 ## 📖 项目简介
 基于《Head First Android 开发》的学习实践项目，通过20个精心设计的应用模块，带你从零掌握Android开发精髓！
 
-> 🌟 **学习轨迹**：My First App → Beer Adviser → Linear Layout Example → Frame Layout Example → Layout Example → Scroll View Example → My Constraint Layout → My Constraint Layout2 → My Constraint Layout3 → Stopwatch → Secrect Message → Rabbit Chat → Bits And Pizzas → Stopwatch_view_binding → Bits And Pizzas_view_binding → Guessing Game → Guessing Game_live_data → Guessing Game_data_binding → Temperature Converter → Guessing Game Compose
+🌟 Android 开发学习轨迹
+├── 🎯 阶段 1：基础入门
+│   ├── My First App
+│   └── Beer Adviser
+├── 🎨 阶段 2：布局与 UI 设计
+│   ├── Linear Layout Example
+│   ├── Frame Layout Example
+│   ├── Layout Example
+│   ├── Scroll View Example
+│   ├── My Constraint Layout
+│   ├── My Constraint Layout2
+│   └── My Constraint Layout3
+├── ⚙️ 阶段 3：功能开发与实战
+│   ├── Stopwatch
+│   ├── Secret Message
+│   ├── Rabbit Chat
+│   └── Bits And Pizzas
+└── 🚀 阶段 4：现代开发技术
+    ├── Stopwatch_view_binding
+    ├── Bits And Pizzas_view_binding
+    ├── Guessing Game
+    ├── Guessing Game_live_data
+    ├── Guessing Game_data_binding
+    ├── Temperature Converter
+    └── Guessing Game Compose
 
 ## 🎯 功能亮点
 
