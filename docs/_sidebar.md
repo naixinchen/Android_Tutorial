@@ -1,6 +1,0 @@
-- [首页](/)
-- [快速入门](start.md "start from here")
-- [构建交互式应用]
-- [扮演布局]
-- [Navigation](navigation.md "android navigation")
-- [Fragment](fragment.md "android fragment")
